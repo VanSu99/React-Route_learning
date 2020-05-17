@@ -86,7 +86,7 @@
 
 ### CÁCH TỔ CHỨC FOLDER CHO PROJECT
 
-- src/
+ src/
 |---index.js
 |---App.js
 |---components/
