@@ -86,6 +86,7 @@
 
 ### CÁCH TỔ CHỨC FOLDER CHO PROJECT
 
+
  src/
 |---index.js
 |---App.js
@@ -119,6 +120,7 @@
 |  |  |---Contact/
 |  |  |  |---index.jsx
 |  |  |  |---styled.js
+
 
 
 ### KẾT LUẬN
