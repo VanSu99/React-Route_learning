@@ -86,41 +86,42 @@
 
 ### CÁCH TỔ CHỨC FOLDER CHO PROJECT
 
-
- src/
-|---index.js
-|---App.js
-|---components/
-|  |---styles/
-|  |  |---globalStyles.js
-|  |  |---theme.js
-|  |  |---mixin.js
-|  |  |---images.js
+------------------------------------
+|     src/                          |
+|    |---index.js                   |
+|    |---App.js                     |
+|    |---components/
+|    |  |---styles/
+|    |  |  |---globalStyles.js
+|    |  |  |---theme.js
+|    |  |  |---mixin.js
+|    |  |  |---images.js
+|    |
+|    |  |---common/
+|    |  |  |---Form/
+|    |  |  |  |---index.jsx
+|    |  |  |  |---styled.js
+|    |  |  |---Table/
+|    |  |  |  |---index.jsx
+|    |  |  |  |---styled.js
+|    |
+|    |  |---layout/
+|    |  |  |---Header/
+|    |  |  |  |---index.jsx
+|    |  |  |  |---styled.js
+|    |  |  |---Footer/
+|    |  |  |  |---index.jsx
+|    |  |  |  |---styled.js
+|    |
+|    |  |---pages/
+|    |  |  |---About/
+|    |  |  |  |---index.jsx
+|    |  |  |  |---styled.js
+|    |  |  |---Contact/
+|    |  |  |  |---index.jsx
+|    |  |  |  |---styled.js
 |
-|  |---common/
-|  |  |---Form/
-|  |  |  |---index.jsx
-|  |  |  |---styled.js
-|  |  |---Table/
-|  |  |  |---index.jsx
-|  |  |  |---styled.js
-|
-|  |---layout/
-|  |  |---Header/
-|  |  |  |---index.jsx
-|  |  |  |---styled.js
-|  |  |---Footer/
-|  |  |  |---index.jsx
-|  |  |  |---styled.js
-|
-|  |---pages/
-|  |  |---About/
-|  |  |  |---index.jsx
-|  |  |  |---styled.js
-|  |  |---Contact/
-|  |  |  |---index.jsx
-|  |  |  |---styled.js
-
+------------------------------------
 
 
 ### KẾT LUẬN
